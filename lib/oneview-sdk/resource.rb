@@ -17,7 +17,7 @@ module OneviewSDK
   # Resource base class that defines all common resource functionality.
   class Resource
     BASE_URI = '/rest'.freeze
-    UNIQUE_IDENTIFIERS = %w[name uri].freeze # Ordered list of unique attributes to search by
+    UNIQUE_IDENTIFIERS = %w[name uri namePrefix].freeze # Ordered list of unique attributes to search by
     DEFAULT_REQUEST_HEADER = {}.freeze
 
     attr_accessor \
