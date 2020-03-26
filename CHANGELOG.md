@@ -8,6 +8,7 @@ This release does not support any new features added in API versions 800,1000 an
 - Build Plan
 - Deployment Plan
 - Golden Image
+- Hypervisor Cluster Profile
 - OS Volume
 - Plan Script
 
