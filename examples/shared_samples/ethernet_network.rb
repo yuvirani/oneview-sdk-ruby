@@ -30,7 +30,7 @@ require_relative '../_client' # Gives access to @client
 # api_version = 300 & variant = Synergy to OneviewSDK::API300::Synergy::EthernetNetwork
 # api_version = 500 & variant = C7000 to OneviewSDK::API500::C7000::EthernetNetwork
 # api_version = 500 & variant = Synergy to OneviewSDK::API500::Synergy::EthernetNetwork
-# api_version = 600 & variant = C7000 to OneviewSDK::API600::C7000::EthernetNetwork
+# api_version = 1600 & variant = C7000 to OneviewSDK::API600::C7000::EthernetNetwork
 # api_version = 600 & variant = Synergy to OneviewSDK::API600::Synergy::EthernetNetwork
 
 # Resource Class used in this sample
